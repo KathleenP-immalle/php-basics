@@ -8,5 +8,5 @@ $voornaam = "Kathleen";
 $achternaam = "Puvrez";
 
 $naam = "$voornaam $achternaam";
-
+echo "$naam";
 ?>
